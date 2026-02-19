@@ -2,7 +2,7 @@
 
 **Belajar Makin Seru & Mudah! 🎓**  
 
-Versi: **v2.4.1** | Ukuran: **24.8 MB** | Minimal Android: **5.0+**  
+Versi: **v1.3.2** | Ukuran: **24.8 MB** | Minimal Android: **5.0+**  
 
 ---
 
@@ -21,13 +21,6 @@ Fitur utama meliputi:
 
 ---
 
-## ⭐ Rating & Ulasan
-
-**4.9 / 5.0**  
-128 ulasan dari guru & orang tua membuktikan kualitas dan kehandalan aplikasi ini.  
-
----
-
 ## 🔒 Keamanan & Verifikasi
 
 - Aman & terenkripsi  
@@ -36,11 +29,3 @@ Fitur utama meliputi:
 
 ---
 
-## 📲 Download
-
-File APK: [SekolahQ.apk](./SekolahQ.apk)  
-Versi terbaru siap diinstal di perangkat Android 5.0+  
-
----
-
-© 2025 Sekolah Q · SDN Babadan 01
