@@ -1,31 +1,35 @@
-# 🏫 SDN Babadan 01 – Sekolah Q ⭐
+# 🚀 BBDN – Ngoding, Inovasi, Repeat. 💥
 
-**Belajar Makin Seru & Mudah! 🎓**  
-
-Versi: **v1.3.2** | Ukuran: **24.8 MB** | Minimal Android: **5.0+**  
+**Gak cuma bikin aplikasi – kita bikin pengalaman. 🎨⚡**
 
 ---
 
-## 📱 Tentang Aplikasi
+## 🏗 Siapa Kita
 
-**Sekolah Q** adalah aplikasi pintar yang dirancang khusus untuk mendukung **aktivitas belajar, absensi, dan komunikasi sekolah** bagi siswa, guru, dan orang tua SDN Babadan 01.  
+BBDN itu squad **software engineer & tech wizard** yang suka nge-push batasan aplikasi.  
+Mulai dari mobile apps yang sleek sampe web magic, kita bikin semua **cepat, aman, dan gampang dipakai**.  
 
-Fitur utama meliputi:  
-
-- 📋 **Absensi Digital** – Absen cepat dan akurat  
-- 📢 **Info Sekolah** – Pengumuman dan berita terbaru  
-- 📊 **Rapor Online** – Lihat nilai dan perkembangan belajar  
-- 🎯 **Jadwal Pelajaran** – Pantau jadwal harian dan mingguan  
-- 💬 **Pesan Guru** – Komunikasi langsung dengan guru  
-- 🏆 **Prestasi Siswa** – Catat dan apresiasi pencapaian akademik  
+Bayangin aja kita kayak **otak di balik app favorit kamu selanjutnya**.  
 
 ---
 
-## 🔒 Keamanan & Verifikasi
+## 🔥 Apa yang Kita Lakuin
 
-- Aman & terenkripsi  
-- ✅ Terverifikasi resmi oleh SDN Babadan 01  
-- 🆓 Gratis untuk seluruh siswa, guru, dan orang tua  
+- ⚡ **Super Cepet** – Apps yang ngebut kaya kilat  
+- 🛡 **Aman & Chill** – Data kamu aman banget sama kita  
+- 🎨 **UX/UI Kece** – Eye candy + navigasi gampang  
+- 📈 **Pinter Abis** – Fitur yang ngandelin data, tapi masuk akal  
+- 🔗 **Plug & Play** – Bisa nyambung ke API tanpa drama  
 
 ---
 
+## 💡 Vibe Kita
+
+> "Ngoding keras, inovasi lebih keras, release yang paling keren."  
+
+Kita hidup buat **creativity, speed, sama clean code**.  
+Kalau gak epic, ya gak kita release. 😎  
+
+---
+
+© 2026 **BBDN** – Software Engineering Rebels
